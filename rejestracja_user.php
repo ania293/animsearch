@@ -7,7 +7,7 @@
     <link rel="Stylesheet" type="text/css" href="style.css" />
 </head>
 
-    <body>
+<body>
         <div class="nag-wrapper clearfix">
             <div id="nag">
                 <h2> AnimSearch</h2>
